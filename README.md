@@ -12,3 +12,5 @@ Topics covered -
  9. Contouring and shape detection
  10.Bounding box
  11.Face detection with OpenCV Cascades
+ 
+ 
